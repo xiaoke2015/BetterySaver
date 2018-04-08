@@ -1,6 +1,10 @@
 # BetterySaver
 熊猫手机助手 比爱思PP助手都好用
 
+感谢大家的支持 刚刚看到有人用的的源码改的app 上架了，感谢对我的认可
+爱&思助手 - 应用助手   appstore 下载地址 https://itunes.apple.com/cn/app/id1367054075?mt=8
+
+
 appstore 下载地址 https://itunes.apple.com/cn/app/id1279231819?mt=8
 
 
